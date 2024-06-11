@@ -60,7 +60,7 @@
     "follow-redirects": "^1.15.4",
     "@types/ramda": "0.26.0",
     "@azure/msal-browser": "^2.38.3",
-    "@azure/msal-node": "^1.18.4",
+    "@azure/msal-node": "^2.6.6",
     "axios": "0.28.0",
     "tar": "6.1.9",
     "ws": "7.4.6",
